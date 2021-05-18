@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-image: url("timeclock.jpg");
+    border-image-width: 100%;
+}
+.cont{
+    /* background-color:rgb(218,225,232,255); */
+    margin: 290px auto;
+    text-align: center;
+    max-width: 90%;
+}
+/* .navbar{
+    background-color: #d3dae2;
+} */
